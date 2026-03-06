@@ -159,7 +159,6 @@
             // لكنه قد يسبب Runtime Error.
             #endregion
 
-
             // 13.
             #region Question 13
             string? s5 = null;
